@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345869647743",
+    "firebase_url": "https://test-teekit.firebaseio.com",
+    "project_id": "test-teekit",
+    "storage_bucket": "test-teekit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345869647743:android:6f9fde63469961b8c3244a",
+        "android_client_info": {
+          "package_name": "com.testteekit.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345869647743-drqvqnlmrc9rv7gm8c8ombafbvrqs9q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe4Nt8CYGl15MbKMlDYnVeODokc07GEDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345869647743-drqvqnlmrc9rv7gm8c8ombafbvrqs9q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
