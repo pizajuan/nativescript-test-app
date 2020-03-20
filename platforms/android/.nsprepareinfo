@@ -1,7 +1,8 @@
 {
-	"time": "Thu Mar 19 2020 16:53:15 GMT-0300 (GMT-03:00)",
+	"time": "Fri Mar 20 2020 15:46:48 GMT-0300 (GMT-03:00)",
 	"nativePlatformStatus": "1",
+	"release": false,
 	"changesRequireBuild": true,
 	"projectFileHash": "b3d1df22024012119983f0db5a8d110b3fe71788e0c62e0bdb44375fc4d95ec2",
-	"changesRequireBuildTime": "Thu Mar 19 2020 16:53:15 GMT-0300 (GMT-03:00)"
+	"changesRequireBuildTime": "Fri Mar 20 2020 15:46:48 GMT-0300 (GMT-03:00)"
 }
